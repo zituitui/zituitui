@@ -11,9 +11,6 @@
 - PhD vacancy
 - Full-time research position
 
-🌐 My Google Scholar:
-
-[Fangyikang Wang]([https://www.google.com](https://scholar.google.com/citations?user=j80akcEAAAAJ&hl=en))
 
 
 <!--
