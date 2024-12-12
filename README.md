@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 I’m currently pursuing a Master's degree in the College of Computer Science at Zhejiang University.
+🎓 I am presently pursuing my Master's degree in Computer Science at Zhejiang University, while also serving as a Research Intern at Tencent Inc.
 
 🔬 I’m currently interested in:
 - Diffusion Models
