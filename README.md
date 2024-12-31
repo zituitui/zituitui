@@ -1,15 +1,16 @@
 ## Hi there 👋
 
-🎓 I am presently pursuing my Master's degree in Computer Science at Zhejiang University, while also serving as a Research Intern at Tencent Inc.
+🎓 I am pursuing my Master's degree in Computer Science at **Zhejiang University** and serving as a Research Scientist Intern at **Wechat, Tencent Inc**.
 
 🔬 I’m currently interested in:
-- Diffusion Models
+- Diffusion models and other generative models
 - Optimal Transport
 - Variational Inference (MCMC and ParVI)
 
 💼 I’m currently looking for
-- PhD vacancy
-- Full-time research position
+- Visiting Scholar (2025 summer)
+- PhD vacancy (2026 fall)
+- Full-time researcher (2026 fall)
 
 
 
