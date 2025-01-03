@@ -9,8 +9,8 @@
 
 💼 I’m currently looking for
 - Visiting Scholar (2025 summer)
-- PhD vacancy (2026 fall)
-- Full-time researcher (2026 fall)
+- PhD vacancy (2026 fall/spring)
+- Full-time researcher (2026 fall/spring)
 
 
 
