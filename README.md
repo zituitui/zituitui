@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 I am pursuing my Master's degree in Computer Science at **Zhejiang University** and serving as a Research Scientist Intern at **Wechat, Tencent Inc**.
+🎓 I am pursuing my Master's degree in Computer Science at **Zhejiang University** and serving as a Research Scientist Intern at **Wechat, Tencent Inc.**. I am also an incoming Research Intern at **ETH Zürich**.
 
 🔬 I’m currently interested in:
 - Diffusion models and other generative models
