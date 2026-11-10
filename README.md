@@ -1,15 +1,12 @@
 ## Hi there 👋
 
-🎓 I am pursuing my Master's degree in Computer Science at **Zhejiang University** and serving as a Research Scientist Intern at **Wechat, Tencent Inc.**. I am also an incoming Research Intern at **ETH Zürich**.
+🌱 I am currently a researcher at Minimax H Team. 
+I am pround to be a contributor of [MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3).
 
 🔬 I’m currently interested in:
-- Diffusion models and other generative models
-- Optimal Transport
-- Variational Inference (MCMC and ParVI)
+- Fast inference of visual generative models.
+- RL on visual generative models.
 
-💼 I’m currently looking for
-- PhD vacancy (2026 fall/spring)
-- Full-time researcher (2026 fall/spring)
 
 
 
