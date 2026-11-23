@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🌱 I am currently a researcher at Minimax H Team. 
-I am pround to be a contributor of [MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3).
+I am proud to be a contributor of [MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3).
 
 🔬 I’m currently interested in:
 - Fast inference of visual generative models.
